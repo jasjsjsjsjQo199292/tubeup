@@ -28,5 +28,6 @@ setup(
         'internetarchive',
         'docopt==0.6.2',
         'youtube-dl',
+        'gallery-dl',
     ]
 )
