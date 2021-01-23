@@ -13,7 +13,7 @@ from youtube_dl import YoutubeDL
 from .utils import (check_is_file_empty, EMPTY_ANNOTATION_FILE)
 from logging import getLogger
 from urllib.parse import urlparse
-
+from gallery_dl import GalleryDL
 from tubeup import __version__
 
 
